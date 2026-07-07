@@ -17,6 +17,7 @@
 | CP 怎麼算 | [`docs/cp-method.md`](docs/cp-method.md) |
 | 卡牌 CP 快表 | [`docs/card-cp-reference.md`](docs/card-cp-reference.md) |
 | 蒼鷹套完整攻略 | [`decks/goshawk-deck-guide.md`](decks/goshawk-deck-guide.md) |
+| 樹蕨套完整攻略 | [`decks/tree-fern-deck-guide.md`](decks/tree-fern-deck-guide.md) |
 
 ---
 
@@ -63,6 +64,7 @@ CP = 得分 ÷ 總成本
 | 套牌 | 檔案 |
 |---|---|
 | 蒼鷹套 | [`decks/goshawk-deck-guide.md`](decks/goshawk-deck-guide.md) |
+| 樹蕨套 | [`decks/tree-fern-deck-guide.md`](decks/tree-fern-deck-guide.md) |
 
 ### 3. 想知道為什麼某組合不列出
 
@@ -84,6 +86,7 @@ CP = 得分 ÷ 總成本
 | CP 算法 | 已整理 |
 | 卡牌快表 | 已整理為獨立檔 |
 | 蒼鷹套 | 已修正大斑啄木鳥，並加入最小 CP > 2 組合與雙蒼鷹 |
+| 樹蕨套 | 已加入最小 CP > 2 組合與 2 樹蕨判斷 |
 | 其他套牌 | 待補 |
 
 ---
