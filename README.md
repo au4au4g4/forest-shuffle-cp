@@ -16,6 +16,8 @@
 |---|---|
 | CP 怎麼算 | [`docs/cp-method.md`](docs/cp-method.md) |
 | 卡牌 CP 快表 | [`docs/card-cp-reference.md`](docs/card-cp-reference.md) |
+| 卡牌定位整理 | [`docs/card-roles.md`](docs/card-roles.md) |
+| 核心套整理 | [`docs/core-combos.md`](docs/core-combos.md) |
 | 蒼鷹套完整攻略 | [`decks/goshawk-deck-guide.md`](decks/goshawk-deck-guide.md) |
 | 樹蕨套完整攻略 | [`decks/tree-fern-deck-guide.md`](decks/tree-fern-deck-guide.md) |
 | 野兔套最小組合 | [`decks/hare-deck-guide.md`](decks/hare-deck-guide.md) |
@@ -56,7 +58,27 @@ CP = 得分 ÷ 總成本
 樹木、上方動物、下方牌、左右牌的單卡 CP
 ```
 
-### 2. 想查套牌怎麼組
+### 2. 想查卡牌定位
+
+看：[`docs/card-roles.md`](docs/card-roles.md)
+
+適合查：
+
+```text
+Combo 核心、收割核心、引擎核心、低效或輔助牌
+```
+
+### 3. 想查核心套
+
+看：[`docs/core-combos.md`](docs/core-combos.md)
+
+適合查：
+
+```text
+Combo 核心套、收割型核心套、引擎型核心
+```
+
+### 4. 想查套牌怎麼組
 
 看：[`decks/`](decks/)
 
@@ -68,7 +90,7 @@ CP = 得分 ÷ 總成本
 | 樹蕨套 | [`decks/tree-fern-deck-guide.md`](decks/tree-fern-deck-guide.md) |
 | 野兔套 | [`decks/hare-deck-guide.md`](decks/hare-deck-guide.md) |
 
-### 3. 想知道為什麼某組合不列出
+### 5. 想知道為什麼某組合不列出
 
 看：[`docs/cp-method.md`](docs/cp-method.md) 的「最小達標組合」。
 
@@ -87,6 +109,8 @@ CP = 得分 ÷ 總成本
 |---|---|
 | CP 算法 | 已整理 |
 | 卡牌快表 | 已整理為獨立檔 |
+| 卡牌定位 | 已依目前快表分類為 Combo／收割／引擎／輔助 |
+| 核心套 | 已建立 Combo／收割／引擎架構 |
 | 蒼鷹套 | 已修正大斑啄木鳥，並加入最小 CP > 2 組合與雙蒼鷹 |
 | 樹蕨套 | 已加入最小 CP > 2 組合與 2 樹蕨判斷 |
 | 野兔套 | 已加入 4 野兔 + 赤狐最小達標組合 |
