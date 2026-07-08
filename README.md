@@ -11,9 +11,6 @@
 | CP 怎麼算 | [`docs/cp-method.md`](docs/cp-method.md) |
 | 卡牌 CP 快表 | [`docs/card-cp-reference.md`](docs/card-cp-reference.md) |
 | 核心套整理 | [`docs/core-combos.md`](docs/core-combos.md) |
-| 蒼鷹套 | [`decks/goshawk-deck-guide.md`](decks/goshawk-deck-guide.md) |
-| 樹蕨套 | [`decks/tree-fern-deck-guide.md`](decks/tree-fern-deck-guide.md) |
-| 野兔套 | [`decks/hare-deck-guide.md`](decks/hare-deck-guide.md) |
 
 ---
 
@@ -43,9 +40,6 @@ CP = 得分 ÷ 總成本
 | CP 算法 | 已整理 |
 | 卡牌快表 | 已整理 |
 | 核心套 | 已整理 Combo 核心套與收割型核心套 |
-| 蒼鷹套 | 已整理 |
-| 樹蕨套 | 已整理 |
-| 野兔套 | 已整理 |
 
 ---
 
