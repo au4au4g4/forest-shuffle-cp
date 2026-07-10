@@ -10,6 +10,7 @@
 |---|---|
 | CP 怎麼算 | [`docs/cp-method.md`](docs/cp-method.md) |
 | 卡牌 CP 快表 | [`docs/card-cp-reference.md`](docs/card-cp-reference.md) |
+| 基本版卡牌數量 | [`docs/card-counts.md`](docs/card-counts.md) |
 | 核心套整理 | [`docs/core-combos.md`](docs/core-combos.md) |
 
 ---
@@ -27,7 +28,6 @@ CP = 得分 ÷ 總成本
 
 ```text
 核心套 = 整組 CP ≥ 2，且是該流派第一次達標的最小組合。
-
 如果小組合已經達標，就不再列同一路線繼續加牌的版本。
 ```
 
@@ -39,6 +39,7 @@ CP = 得分 ÷ 總成本
 |---|---|
 | CP 算法 | 已整理 |
 | 卡牌快表 | 已整理 |
+| 卡牌數量 | 已整理基本版 57 種樹木／生物 |
 | 核心套 | 已整理 Combo 核心套與收割型核心套 |
 
 ---
